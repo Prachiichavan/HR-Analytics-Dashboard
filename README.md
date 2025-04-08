@@ -5,8 +5,12 @@
 Tools Used:      
 
 Power BI
+
 Power Query
+
 Dax Query
+
+
 
 Cleaning and Analyzing using Power Query:
 
@@ -21,6 +25,8 @@ Exploring and Manipulate Some Data Using DAX Query:
 With DAX Query, we can effectively manipulate and analyze the data to provide insights for visulization and identify areas for improvement for HR.
 Create Measures and columns Using DAX functions such as count, sum function for exploring some clean data for improve dashboard KPI in PowerBI.
 
+
+
 Power BI Dashboard Visualization:
 
 Design the dashboard layout
@@ -29,6 +35,8 @@ Use Visulizations for charts and filters for filter dashboard
 Now, Add Title HR Dashboard
 Add Month column as Slicer and add some informative KPI.
 Add Bar chart, Pie chart, Column chart, Cards, Matrix chart, Donut chart etc
+
+
 
 Conclusion:
 
